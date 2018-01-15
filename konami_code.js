@@ -4,7 +4,7 @@ function init() {
   let index = 0;
   const input = document.querySelector('input')
   
-  
+  input.addEventListener
   
 
 }
